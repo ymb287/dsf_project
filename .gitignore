@@ -130,5 +130,4 @@ dmypy.json
 
 #MY FILES TO IGNORE
 .idea/
-
-venv/
+.idea

@@ -1,0 +1,7 @@
+Params;MeanMAE;MeanR2
+{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 16, 'hidden_layer_sizes': (100,), 'learning_rate_init': 0.001, 'max_iter': 1000, 'solver': 'adam'};-0.34038803942991924;0.5708426816516858
+{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 64, 'hidden_layer_sizes': (100,), 'learning_rate_init': 0.001, 'max_iter': 1000, 'solver': 'adam'};-0.338590215752488;0.5727831105396615
+{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 32, 'hidden_layer_sizes': (100,), 'learning_rate_init': 0.001, 'max_iter': 1000, 'solver': 'adam'};-0.2821311525773227;0.7039128769246832
+{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 64, 'hidden_layer_sizes': (32, 64, 32), 'learning_rate_init': 0.001, 'max_iter': 1000, 'solver': 'adam'};-0.19935219634757567;0.8435636403448953
+{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 16, 'hidden_layer_sizes': (32, 64, 32), 'learning_rate_init': 0.001, 'max_iter': 1000, 'solver': 'adam'};-0.18675962199977952;0.8568722942039564
+{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 32, 'hidden_layer_sizes': (32, 64, 32), 'learning_rate_init': 0.001, 'max_iter': 1000, 'solver': 'adam'};-0.18276514154645387;0.8675774001308131
